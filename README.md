@@ -114,12 +114,15 @@ Developed a Java REST API for managing and running "task" objects, representing 
 
 ### Task Creation (Postman)
 
-<img width="1920" height="1200" alt="Screenshot 2025-09-28 215908" src="https://github.com/user-attachments/assets/268d73ed-3ef9-4235-b66d-58ffd497248f" />
-<img width="1920" height="1200" alt="Screenshot 2025-09-28 215433" src="https://github.com/user-attachments/assets/5937b012-5eb1-4bf4-935f-ec242832c1c9" />
 <img width="1920" height="1200" alt="Screenshot 2025-09-28 215323" src="https://github.com/user-attachments/assets/415824c0-efa8-408d-a398-dcb76d41f72d" />
-<img width="1919" height="1189" alt="Screenshot 2025-09-28 215156" src="https://github.com/user-attachments/assets/0b3515b7-9f07-46cf-988e-0715a7b92934" />
-<img width="1920" height="1200" alt="Screenshot 2025-09-28 215846" src="https://github.com/user-attachments/assets/0e9fd4ff-c574-4d25-b04a-47d13a117049" />
-<img width="1920" height="1200" alt="Screenshot 2025-09-28 215546" src="https://github.com/user-attachments/assets/23a6ed1d-341b-4b86-a4fa-155f336e03e7" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab96d84a-db71-41fd-8c1f-39dbbb36f4ec" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/481b7dd8-af93-4625-b1db-981788fc4169" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3863c517-ace2-451c-995c-cc9d96bf8cc4" />
+
+<img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/005db30b-c061-4d67-855d-f85bc6d206c5" />
 
 ### MongoDB Data View
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b17a77a6-f75c-4cb6-b90e-7d9fea68181e" />
