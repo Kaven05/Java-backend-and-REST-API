@@ -130,12 +130,4 @@ Developed a Java REST API for managing and running "task" objects, representing 
 
 ---
 
-## Notes
 
-- This is Task 1 of the submission.
-- All commands are validated for security.
-- Do not share this work or submit in zip/pdf/doc formats.
-
----
-
-Copyright © 2025 Kaiburr LLC. All rights reserved.
